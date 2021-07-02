@@ -2,7 +2,7 @@
 
 ![🎉Birthday Wisher with Countdown!🎉 - React](https://i.ibb.co/KhxVyrh/birthday-wisher-counter.png)
 
-### [Live Site](https://.netlify.app/)
+### [Live Site](https://birthdaywisherapp.netlify.app/)
 
 # Installation
 
